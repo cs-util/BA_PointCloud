@@ -26,7 +26,7 @@ PointCloudRenderer/.vs/
 
 
 # Unity3D generated meta files
-*.pidb.meta
+*.meta
 
 # Unity3D Generated File On Crash Reports
 */sysinfo.txt
@@ -70,3 +70,5 @@ PointCloudRenderer/Assets/Scenes/old.meta
 PointCloudRenderer/Assets/Scenes/old
 PointCloudRenderer/Assets/Scenes/old/*
 PointCloudRenderer/Logs/Packages-Update.log
+PointCloudRenderer/Assets/StreamingAssets/*
+PointCloudRenderer/Assets/StreamingAssets.meta
